@@ -445,13 +445,29 @@ const creaturesJSON = {
             "names": null,
             "min": 1,
             "max": 12
+        },
+        "bandit war party": {
+            "description": "a group of shabby-looking humanoids wearing ragged, piecemeal armor and sporting secondhand weapons",
+            "hair": [ null ],
+            "skin": [ null ],
+            "names": [
+                "human mercenary",
+                "human vagabond",
+                "human deserter",
+                "human outlaw",
+                "human malcontent",
+                "faerie sapper",
+                "faerie rogue",
+                "faerie deserter",
+                "faerie criminal",
+                "goblin thug",
+                "goblin ne'er-do-well",
+                "goblin sneak",
+                "goblin cutthroat"
+            ],
+            "min": 2,
+            "max": 8
         }
-
-
-
-
-
-
 
         
     }
